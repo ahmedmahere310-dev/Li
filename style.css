@@ -43,7 +43,7 @@
  .landing-page{
   background-color: #4465FF;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-left;
   align-items: center;
   padding: 10px 15px;
   color: white;
